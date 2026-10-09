@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p data-importer="text" align="left">I'm Jonathan from Toronto<br><br>- 💬 I like Natural Language Processing<br>- 📚 I'm currently learning Gemini TTS 3.1 model<br>- ⚡ In my free time I play card games</p>
+<p data-importer="text" align="left">I'm Jonathan from Toronto!<br><br>- 💬 I like Natural Language Processing. <br>- 📚 I'm currently learning Gemini TTS 3.1 mdoel. <br>- ⚡ In my free time I play card games.</p>
 
 ###
 
@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<!-- <h3 data-importer="text" align="left">🔥   My Stats :</h3> -->
 
 ###
